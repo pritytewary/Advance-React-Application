@@ -36,7 +36,13 @@ To get started with this project, follow these steps:
    Open your browser and navigate to http://localhost:5173 to see the application in action!
 
 🔗 API Used
+
 JSONPlaceholder: A free fake API for testing and prototyping. JSONPlaceholder API
+
+📸 Screenshots
+![Home page](homepage.png)
+![Loading page](loadingpage.png)
+![Post page](postpage.png)
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -45,5 +51,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contributions are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
 
 Thank you for checking out this project! Enjoy exploring the application! 🎉
-
-![alt text](image.png)
