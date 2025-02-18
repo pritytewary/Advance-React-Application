@@ -45,3 +45,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contributions are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
 
 Thank you for checking out this project! Enjoy exploring the application! 🎉
+
+![alt text](image.png)
