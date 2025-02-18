@@ -40,8 +40,17 @@ To get started with this project, follow these steps:
 JSONPlaceholder: A free fake API for testing and prototyping. JSONPlaceholder API
 
 📸 Screenshots
+
+Home page
+
 ![Home page](homepage.png)
+
+Loading Page
+
 ![Loading page](loadingpage.png)
+
+Post Page
+
 ![Post page](postpage.png)
 
 📄 License
